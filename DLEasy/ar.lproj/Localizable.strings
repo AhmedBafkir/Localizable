@@ -45,7 +45,7 @@
 "HUD_COPIED" = "تم النسخ";
 "HUD_WAITING" = "الرجاء الإنتظار..";
 "HUD_ERROR" = "خطأ!";
-"HUD_CONNECTION" = "There is no internet!";
+"HUD_CONNECTION" = "لا يوجد إنترنت!";
 "HUD_DOWNLOADING" = "جارِ التنزيل..";
 "HUD_DOWNLOADING_ALL" = "جارِ تنزيل\nالكل..";
 "HUD_FETCHING_LINKS" = "جارِ إحضار\nالروابط ..";
