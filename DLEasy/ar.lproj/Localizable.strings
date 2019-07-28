@@ -33,11 +33,11 @@
 /*@ SCLAlertView @*/
 "SCL_DONE" = "تم";
 "SCL_VIDEO" = "يمكنك تنزيل الفيديو عن طريق الضغط لفترة طويلة على الفيديو.";
-"SCL_STORY" = "You can now download story by long press on video/photo.";
-"SCL_INSTAGRAM" = "You can now download by long press on images or video and it applies to Story & IGTV.";
-"SCL_TWITCH" = "You can download only Clips by long press on video";
-"SCL_TWITTER" = "You can now download by long press on video or Gifs in full screen and it applies to direct messages.";
-"SCL_WHATSAPP" = "To save status, press the three dots button at the top right.";
+"SCL_STORY" = "يمكنك الأن تنزيل الستوري عن طريق الضغط لفترة طويلة على الفيديو/الصورة.";
+"SCL_INSTAGRAM" = "يمكنك الآن التنزيل من خلال الضغط لفترة طويلة على الصور أو الفيديو وينطبق ذلك على Story & IGTV";
+"SCL_TWITCH" = "يمكنك تنزيل الكليبات فقط عن طريق الضغط لفترة طويلة على الفيديو.";
+"SCL_TWITTER" = "يمكنك الآن التنزيل من خلال الضغط لفترة طويلة على الفيديو أو الصور المتحركة في وضع ملء الشاشة وينطبق ذلك على الرسائل الخاصة.";
+"SCL_WHATSAPP" = "لحفظ الحالة، اضغط على زر النقاط الثلاث في أعلى اليسار.";
 
 /*@ HUD @*/
 "HUD_SUCCESS" = "تم الحفظ";
@@ -54,20 +54,20 @@
 /*@ ALERT MESSAGE @*/
 "ALERT_OK_BUTTON" = "حسنًا";
 "ALERT_IMPORT_BUTTON" = "استيراد";
-"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Can't download more than one video/audio at the same time, Please wait for download to finish.";
-"ALERT_IMPORT_VIDEO" = "Do you want to import the video into the music app?";
-"ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "لا يمكن تنزيل أكثر من فيديو/صوت واحد في نفس الوقت، برجاء انتظار انتهاء التنزيل.";
+"ALERT_IMPORT_VIDEO" = "هل تريد إستيراد الفيديو إلى تطبيق الموسيقى؟";
+"ALERT_QUALITY_SUPPORT" = "هذه الجودة غير مدعومة، حدد جودة أخرى.";
 
 /*@ ACTIONSHEET @*/
-"ACTION_VIDEO_TITLE" = "Select Video Quality";
-"ACTION_IMAGE_TITLE" = "Select Image Quality";
+"ACTION_VIDEO_TITLE" = "اختر جودة الفيديو";
+"ACTION_IMAGE_TITLE" = "اختر جودة الصورة";
 "ACTION_SAVE" = "حفظ";
 "ACTION_VIDEO" = "فيديو";
 "ACTION_AUDIO" = "صوت";
 "ACTION_DEFAULT_OPTIONS" = "الخيارات الإفتراضية";
-"ACTION_ITEM" = "Download This Item";
-"ACTION_ALL_ITEMS" = "Download All Items";
-"ACTION_GIF" = "GIF";
+"ACTION_ITEM" = "تنزيل هذا العنصر";
+"ACTION_ALL_ITEMS" = "تنزيل كل العناصر";
+"ACTION_GIF" = "صورة متحركة";
 "ACTION_MORE" = "المزيد";
 "ACTION_COPY_TEXT" = "نسخ النص";
 "ACTION_CANCEL" = "إلغاء";
@@ -76,13 +76,13 @@
 /*@ IMPORT PAGE @*/
 "IMPORT_BUTTON" = "استيراد";
 "CANCEL_BUTTON" = "إلغاء";
-"ARTWORK_IMAGE_LABEL" = "Click To Add Artwork";
-"SONG_LABEL" = "Song";
-"ALBUM_LABEL" = "Album";
-"TRACK_LABEL" = "Track";
-"ARTIST_LABEL" = "Artist";
-"YEAR_LABEL" = "Year";
-"GENRE_LABEL" = "Genre";
+"ARTWORK_IMAGE_LABEL" = "انقر لإضافة عمل فني";
+"SONG_LABEL" = "الأغنية";
+"ALBUM_LABEL" = "الألبوم";
+"TRACK_LABEL" = "المسار";
+"ARTIST_LABEL" = "الفنان";
+"YEAR_LABEL" = "العام";
+"GENRE_LABEL" = "النوع";
 
 /* ---------------------------------- */
 
@@ -91,8 +91,8 @@
 /*## SPRINGBOARD ##*/
 
 /*@ ALERT MESSAGE @*/
-"ALERT_MESSAGE_FIRST_INASTALL" = "Thank you for installing DLEasy!\nPlease go to the tweak settings to activate it.";
-"ALERT_MESSAGE_PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
+"ALERT_MESSAGE_FIRST_INASTALL" = "شكرًا لتثبيت DLEasy!\nالرجاء الذهاب إلى إعدادات الأداة للتنشيط.";
+"ALERT_MESSAGE_PIRATED" = "يبدو أنك تستخدم نسخة غير رسمية (مقرصنة) من DLEasy، يرجى شراء النسخة الرسمية من Packix للحصول على كامل مميزات الأداة.";
 
 /* ---------------------------------- */
 
