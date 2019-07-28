@@ -1,0 +1,99 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "Ignorer obtenir / Mise â jour";
+"EXPLINE_IGNORE_OPTION" = "Activez cette option pour afficher les options que vous pouvez utiliser pour activer / désactiver les applications au lieu de «Obtenir / Mise a jour».\n\n «Obtenir» apparaît devant les applications qui ne sont pas installées sur votre appareil et «Mise a jour». apparaît devant les applications dotées d'une version récente compatible avec DLEasy.";
+"CUSTOM_ALBUM" = "Album personnalisé";
+"DLEASY_ALBUM" = "Album DLEasy";
+"DLEASY_ALBUM_DESC" = "Si Activé, toutes les images et vidéos enregistrées par DLEasy seront enregistrées dans un album spécial de l’application Photo appelé DLEasy Album, afin de faciliter l’accès aux téléchargements.";
+"COMPATIBLE_VERSIONS" = "Versions compatibles";
+"COMPATIBLE_APPS_VERSIONS" = "Versions d'applications compatibles";
+"CONTRIBUTE" = "Contribuer";
+"CREDITS" = "Crédits";
+"DEVELOPER" = "Développeur";
+"AHMEDBAFKIR" = "AhmedBafkir";
+"COPYRIGHT" = "© 2019 AhmedBafkir";
+
+"IMPORTANT_APP_INFO" = "Il s'agit des meilleures versions d'applications compatibles avec la version actuelle de DLEasy. Les versions antérieures et postérieures à ces versions peuvent également l'être, mais vous devez rester sur les versions répertoriées ci-dessus pour plus de sécurité. \n \n Conseil: Utiliser l'application Admin ou AppStore ++ pour rétrograder.";
+
+"CONNECTION" = "Assurez-vous d'être connecté à Internet pour activer votre achat.";
+"SOMTHING_WRONG_IN_SERVER" = "Quelque chose dans la demande ne correspond pas à ce que le serveur attendait.";
+"PIRATED" = "Vous semblez utiliser une version non officielle (piratée) de DLEasy, veuillez acheter la version officielle de Packix pour bénéficier de toutes les fonctionnalités du tweak.";
+
+"GET_LABEL" = "Obtenir";
+"UPDATE_LABEL" = "Mise a jour";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Terminé";
+"SCL_VIDEO" = "Vous pouvez maintenant télécharger par appui long sur la vidéo.";
+"SCL_STORY" = "Vous pouvez maintenant télécharger la story par appui long sur vidéo/photo.";
+"SCL_INSTAGRAM" = "Vous pouvez maintenant télécharger par appui long sur des images ou des vidéos et cela s'applique à Story & IGTV.";
+"SCL_TWITCH" = "Vous ne pouvez télécharger que des clips par appui long sur la vidéo";
+"SCL_TWITTER" = "Vous pouvez maintenant télécharger par appui long sur la vidéo ou les Gifs en plein écran et cela s’applique aux messages directs.";
+"SCL_WHATSAPP" = "Pour enregistrer le statut, appuyez sur le bouton des trois points en haut à droite.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Succès";
+"HUD_IMPORT" = "Importé";
+"HUD_COPIED" = "Copié";
+"HUD_WAITING" = "S'il vous plaît, attendez..";
+"HUD_ERROR" = "Erreur!";
+"HUD_CONNECTION" = "Il n'y a pas d'internet!";
+"HUD_DOWNLOADING" = "Téléchargement..";
+"HUD_DOWNLOADING_ALL" = "Téléchargement\nTous ..";
+"HUD_FETCHING_LINKS" = "Récupération de\nliens ..";
+"HUD_CANCEL" = "Annuler";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "OK";
+"ALERT_IMPORT_BUTTON" = "Importation";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Impossible de télécharger plus d'une vidéo/audio en même temps, veuillez attendre la fin du téléchargement.";
+"ALERT_IMPORT_VIDEO" = "Voulez-vous importer la vidéo dans l'application de musique?";
+"ALERT_QUALITY_SUPPORT" = "Cette qualité n'est pas prise en charge, sélectionnez une autre qualité.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_VIDEO_TITLE" = "Sélectionnez la qualité vidéo";
+"ACTION_IMAGE_TITLE" = "Sélectionnez la qualité de l'image";
+"ACTION_SAVE" = "sauvegarder";
+"ACTION_VIDEO" = "Vidéo";
+"ACTION_AUDIO" = "Audio";
+"ACTION_DEFAULT_OPTIONS" = "Options par défaut";
+"ACTION_ITEM" = "Télécharger cet article";
+"ACTION_ALL_ITEMS" = "Télécharger tous les articles";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "Plus";
+"ACTION_COPY_TEXT" = "Copier le texte";
+"ACTION_CANCEL" = "Annuler";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Importation";
+"CANCEL_BUTTON" = "Annuler";
+"ARTWORK_IMAGE_LABEL" = "Cliquez pour ajouter une oeuvre";
+"SONG_LABEL" = "Chanson";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Piste";
+"ARTIST_LABEL" = "Artiste";
+"YEAR_LABEL" = "Année";
+"GENRE_LABEL" = "Genre";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Merci d’avoir installé DLEasy!\nVeuillez vous rendre dans les paramètres de réglage pour l’activer.";
+"ALERT_MESSAGE_PIRATED" = "Vous semblez utiliser une version non officielle (piratée) de DLEasy, veuillez acheter la version officielle de Packix pour bénéficier de toutes les fonctionnalités du tweak.";
+
+/* ---------------------------------- */
+
+/* ################################## */
