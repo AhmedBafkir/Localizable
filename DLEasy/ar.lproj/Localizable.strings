@@ -1,0 +1,99 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "تجاهل إحضار/تحديث";
+"EXPLINE_IGNORE_OPTION" = "قم بتفعيل هذا الخيار لتظهر لك مفاتيح التبديل التي يمكن من خلالها تفعيل/تعطيل التطبيقات بدلًا من “إحضار/تحديث“.\n\nتظهر كلمة “إحضار“ أمام التطبيقات الغير مثبتة على جهازك، وتظهر كلمة “تحديث“ أمام التطبيقات التي يتوفر لها إصدار حديث متوافق مع DLEasy.";
+"CUSTOM_ALBUM" = "ألبوم مخصص";
+"DLEASY_ALBUM" = "ألبوم DLEasy";
+"DLEASY_ALBUM_DESC" = "إذا تم التفعيل، سيتم حفظ كل الصور والفيديوهات التي يتم حفظها بواسطة DLEasy في ألبوم خاص في تطبيق الصور يدعى ألبوم DLEasy، وذلك لتسهيل الوصول إلى التنزيلات.";
+"COMPATIBLE_VERSIONS" = "الإصدارات المتوافق";
+"COMPATIBLE_APPS_VERSIONS" = "إصدارات التطبيقات المتوافقة";
+"CONTRIBUTE" = "المساهمة";
+"CREDITS" = "الاعتمادات";
+"DEVELOPER" = "المطور";
+"AHMEDBAFKIR" = "أحمد بافقير";
+"COPYRIGHT" = "أحمد بافقير ٢٠١٩ ©";
+
+"IMPORTANT_APP_INFO" = "هذه هي أفضل إصدارات التطبيقات المتوافقة مع الإصدار الحالي من DLEasy، قد تكون الإصدارات التي تسبق والتي تلي هذه الإصدارات متوافقة أيضًا ولكن يفضل البقاء على الإصدارات المذكورة أعلاه لتبقى آمنًا.\n\nتلميح: استخدم App Admin أو ++AppStore للرجوع إلى الإصدارات الأقدم.";
+
+"CONNECTION" = "يرجى التأكد من اتصالك بالإنترنت لتنشيط عملية الشراء.";
+"SOMTHING_WRONG_IN_SERVER" = "لم يتطابق شيء في الطلب مع ما كان يتوقعه الخادم الرجاء إعادة المحاولة مرة أخرى.";
+"PIRATED" = "يبدو أنك تستخدم نسخة غير رسمية (مقرصنة) من DLEasy، يرجى شراء النسخة الرسمية من Packix للحصول على كامل مميزات الأداة.";
+
+"GET_LABEL" = "إحضار";
+"UPDATE_LABEL" = "تحديث";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "تم";
+"SCL_VIDEO" = "يمكنك تنزيل الفيديو عن طريق الضغط لفترة طويلة على الفيديو.";
+"SCL_STORY" = "You can now download story by long press on video/photo.";
+"SCL_INSTAGRAM" = "You can now download by long press on images or video and it applies to Story & IGTV.";
+"SCL_TWITCH" = "You can download only Clips by long press on video";
+"SCL_TWITTER" = "You can now download by long press on video or Gifs in full screen and it applies to direct messages.";
+"SCL_WHATSAPP" = "To save status, press the three dots button at the top right.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "تم الحفظ";
+"HUD_IMPORT" = "تم الاستيراد";
+"HUD_COPIED" = "تم النسخ";
+"HUD_WAITING" = "الرجاء الإنتظار..";
+"HUD_ERROR" = "خطأ!";
+"HUD_CONNECTION" = "There is no internet!";
+"HUD_DOWNLOADING" = "جارِ التنزيل..";
+"HUD_DOWNLOADING_ALL" = "جارِ تنزيل\nالكل..";
+"HUD_FETCHING_LINKS" = "جارِ إحضار\nالروابط ..";
+"HUD_CANCEL" = "إلغاء";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "حسنًا";
+"ALERT_IMPORT_BUTTON" = "استيراد";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Can't download more than one video/audio at the same time, Please wait for download to finish.";
+"ALERT_IMPORT_VIDEO" = "Do you want to import the video into the music app?";
+"ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_VIDEO_TITLE" = "Select Video Quality";
+"ACTION_IMAGE_TITLE" = "Select Image Quality";
+"ACTION_SAVE" = "حفظ";
+"ACTION_VIDEO" = "فيديو";
+"ACTION_AUDIO" = "صوت";
+"ACTION_DEFAULT_OPTIONS" = "الخيارات الإفتراضية";
+"ACTION_ITEM" = "Download This Item";
+"ACTION_ALL_ITEMS" = "Download All Items";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "المزيد";
+"ACTION_COPY_TEXT" = "نسخ النص";
+"ACTION_CANCEL" = "إلغاء";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "استيراد";
+"CANCEL_BUTTON" = "إلغاء";
+"ARTWORK_IMAGE_LABEL" = "Click To Add Artwork";
+"SONG_LABEL" = "Song";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Track";
+"ARTIST_LABEL" = "Artist";
+"YEAR_LABEL" = "Year";
+"GENRE_LABEL" = "Genre";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Thank you for installing DLEasy!\nPlease go to the tweak settings to activate it.";
+"ALERT_MESSAGE_PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
+
+/* ---------------------------------- */
+
+/* ################################## */

@@ -1,0 +1,99 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "Ignore GET/UPDATE";
+"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.\n\n“GET“ appears in front of apps that aren’t installed on your device, and “UPDATE“ appears in front of apps that have a recent version that is compatible with DLEasy.";
+"CUSTOM_ALBUM" = "Custom Album";
+"DLEASY_ALBUM" = "DLEasy Album";
+"DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
+"COMPATIBLE_VERSIONS" = "Compatible Versions";
+"COMPATIBLE_APPS_VERSIONS" = "Compatible Apps Versions";
+"CONTRIBUTE" = "Contribute";
+"CREDITS" = "Credits";
+"DEVELOPER" = "Developer";
+"AHMEDBAFKIR" = "AhmedBafkir";
+"COPYRIGHT" = "© 2019 AhmedBafkir";
+
+"IMPORTANT_APP_INFO" = "These are the best versions of apps that are compatible with the current version of DLEasy, the versions that before and after these versions may also be compatible but you should be stay on the versions listed above to be safe.\n\nTip: Use App Admin or AppStore++ to downgrade.";
+
+"CONNECTION" = "Please make sure you are connected to the Internet to activate your purchase.";
+"SOMTHING_WRONG_IN_SERVER" = "Something in the request did not match up with what the server was expecting.";
+"PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
+
+"GET_LABEL" = "GET";
+"UPDATE_LABEL" = "UPDATE";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Done";
+"SCL_VIDEO" = "You can now download by long press on video.";
+"SCL_STORY" = "You can now download story by long press on video/photo.";
+"SCL_INSTAGRAM" = "You can now download by long press on images or video and it applies to Story & IGTV.";
+"SCL_TWITCH" = "You can download only Clips by long press on video";
+"SCL_TWITTER" = "You can now download by long press on video or Gifs in full screen and it applies to direct messages.";
+"SCL_WHATSAPP" = "To save status, press the three dots button at the top right.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Success";
+"HUD_IMPORT" = "Imported";
+"HUD_COPIED" = "Copied";
+"HUD_WAITING" = "Please wait..";
+"HUD_ERROR" = "Error!";
+"HUD_CONNECTION" = "There is no internet!";
+"HUD_DOWNLOADING" = "Downloading..";
+"HUD_DOWNLOADING_ALL" = "Downloading\nAll..";
+"HUD_FETCHING_LINKS" = "Fetching\nlinks..";
+"HUD_CANCEL" = "Cancel";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "OK";
+"ALERT_IMPORT_BUTTON" = "Import";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Can't download more than one video/audio at the same time, Please wait for download to finish.";
+"ALERT_IMPORT_VIDEO" = "Do you want to import the video into the music app?";
+"ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_VIDEO_TITLE" = "Select Video Quality";
+"ACTION_IMAGE_TITLE" = "Select Image Quality";
+"ACTION_SAVE" = "Save";
+"ACTION_VIDEO" = "Video";
+"ACTION_AUDIO" = "Audio";
+"ACTION_DEFAULT_OPTIONS" = "Default Options";
+"ACTION_ITEM" = "Download This Item";
+"ACTION_ALL_ITEMS" = "Download All Items";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "More";
+"ACTION_COPY_TEXT" = "Copy Text";
+"ACTION_CANCEL" = "Cancel";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Import";
+"CANCEL_BUTTON" = "Cancel";
+"ARTWORK_IMAGE_LABEL" = "Click To Add Artwork";
+"SONG_LABEL" = "Song";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Track";
+"ARTIST_LABEL" = "Artist";
+"YEAR_LABEL" = "Year";
+"GENRE_LABEL" = "Genre";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Thank you for installing DLEasy!\nPlease go to the tweak settings to activate it.";
+"ALERT_MESSAGE_PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
+
+/* ---------------------------------- */
+
+/* ################################## */
