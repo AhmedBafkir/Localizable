@@ -2,11 +2,8 @@
 
 /*## DLEASY SETTINGS ##*/
 
-"IGNORE_GET_UPDATE" = "Ignorer obtenir / Mise â jour";
-"EXPLINE_IGNORE_OPTION" = "Activez cette option pour afficher les options que vous pouvez utiliser pour activer / désactiver les applications au lieu de «Obtenir / Mise a jour».\n\n «Obtenir» apparaît devant les applications qui ne sont pas installées sur votre appareil et «Mise a jour». apparaît devant les applications dotées d'une version récente compatible avec DLEasy.";
-"CUSTOM_ALBUM" = "Album personnalisé";
-"DLEASY_ALBUM" = "Album DLEasy";
-"DLEASY_ALBUM_DESC" = "Si Activé, toutes les images et vidéos enregistrées par DLEasy seront enregistrées dans un album spécial de l’application Photo appelé DLEasy Album, afin de faciliter l’accès aux téléchargements.";
+"DIVERSE" = "Divers";
+"GENERAL_SETTINGS_SECTION" = "Paramètres généraux";
 "COMPATIBLE_VERSIONS" = "Versions compatibles";
 "COMPATIBLE_APPS_VERSIONS" = "Versions d'applications compatibles";
 "CONTRIBUTE" = "Contribuer";
@@ -15,14 +12,19 @@
 "AHMEDBAFKIR" = "AhmedBafkir";
 "COPYRIGHT" = "© 2019 AhmedBafkir";
 
+"IGNORE_GET_UPDATE" = "Ignorer obtenir / Mise â jour";
+"EXPLINE_IGNORE_OPTION" = "Activez cette option pour afficher les options que vous pouvez utiliser pour activer/désactiver les applications au lieu de «Obtenir/Mise a jour».\n\n «Obtenir» apparaît devant les applications qui ne sont pas installées sur votre appareil et «Mise a jour». apparaît devant les applications dotées d'une version récente compatible avec DLEasy.";
+"CUSTOM_ALBUM" = "Album personnalisé";
+"DLEASY_ALBUM" = "Album DLEasy";
+"DLEASY_ALBUM_DESC" = "Si Activé, toutes les images et vidéos enregistrées par DLEasy seront enregistrées dans un album spécial de l’application Photo appelé DLEasy Album, afin de faciliter l’accès aux téléchargements.";
+"SHARE_MEDIA_HEADER" = "Activer cette option pour partager du contenu multimédia rapidement et facilement après le téléchargement.";
+"SHARE_MEDIA" = "Partager le média";
+
 "IMPORTANT_APP_INFO" = "Il s'agit des meilleures versions d'applications compatibles avec la version actuelle de DLEasy. Les versions antérieures et postérieures à ces versions peuvent également l'être, mais vous devez rester sur les versions répertoriées ci-dessus pour plus de sécurité. \n \n Conseil: Utiliser l'application Admin ou AppStore ++ pour rétrograder.";
 
 "CONNECTION" = "Assurez-vous d'être connecté à Internet pour activer votre achat.";
 "SOMTHING_WRONG_IN_SERVER" = "Quelque chose dans la demande ne correspond pas à ce que le serveur attendait.";
 "PIRATED" = "Vous semblez utiliser une version non officielle (piratée) de DLEasy, veuillez acheter la version officielle de Packix pour bénéficier de toutes les fonctionnalités du tweak.";
-
-"GET_LABEL" = "Obtenir";
-"UPDATE_LABEL" = "Mise a jour";
 
 /* ---------------------------------- */
 
