@@ -2,11 +2,8 @@
 
 /*## DLEASY SETTINGS ##*/
 
-"IGNORE_GET_UPDATE" = "Ignore GET/UPDATE";
-"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.\n\n“GET“ appears in front of apps that aren’t installed on your device, and “UPDATE“ appears in front of apps that have a recent version that is compatible with DLEasy.";
-"CUSTOM_ALBUM" = "Custom Album";
-"DLEASY_ALBUM" = "DLEasy Album";
-"DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
+"DIVERSE" = "Diverse";
+"GENERAL_SETTINGS_SECTION" = "General Settings";
 "COMPATIBLE_VERSIONS" = "Compatible Versions";
 "COMPATIBLE_APPS_VERSIONS" = "Compatible Apps Versions";
 "CONTRIBUTE" = "Contribute";
@@ -15,14 +12,19 @@
 "AHMEDBAFKIR" = "AhmedBafkir";
 "COPYRIGHT" = "© 2019 AhmedBafkir";
 
+"IGNORE_GET_UPDATE" = "Ignore GET/UPDATE";
+"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.";
+"CUSTOM_ALBUM" = "Custom Album";
+"DLEASY_ALBUM" = "DLEasy Album";
+"DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
+"SHARE_MEDIA_HEADER" = "Enable this option to share media quickly and easily after downloading.";
+"SHARE_MEDIA" = "Share Media";
+
 "IMPORTANT_APP_INFO" = "These are the best versions of apps that are compatible with the current version of DLEasy, the versions that before and after these versions may also be compatible but you should be stay on the versions listed above to be safe.\n\nTip: Use App Admin or AppStore++ to downgrade.";
 
 "CONNECTION" = "Please make sure you are connected to the Internet to activate your purchase.";
 "SOMTHING_WRONG_IN_SERVER" = "Something in the request did not match up with what the server was expecting.";
 "PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
-
-"GET_LABEL" = "GET";
-"UPDATE_LABEL" = "UPDATE";
 
 /* ---------------------------------- */
 
