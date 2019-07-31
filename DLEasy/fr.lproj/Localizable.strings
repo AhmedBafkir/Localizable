@@ -2,7 +2,7 @@
 
 /*## DLEASY SETTINGS ##*/
 
-"DIVERSE" = "Divers";
+"DIVERSE_HEADER" = "Divers";
 "GENERAL_SETTINGS_SECTION" = "Paramètres généraux";
 "COMPATIBLE_VERSIONS" = "Versions compatibles";
 "COMPATIBLE_APPS_VERSIONS" = "Versions d'applications compatibles";
@@ -17,7 +17,7 @@
 "CUSTOM_ALBUM" = "Album personnalisé";
 "DLEASY_ALBUM" = "Album DLEasy";
 "DLEASY_ALBUM_DESC" = "Si Activé, toutes les images et vidéos enregistrées par DLEasy seront enregistrées dans un album spécial de l’application Photo appelé DLEasy Album, afin de faciliter l’accès aux téléchargements.";
-"SHARE_MEDIA_HEADER" = "Activer cette option pour partager du contenu multimédia rapidement et facilement après le téléchargement.";
+"SHARE_MEDIA_FOOTER" = "Activer cette option pour partager du contenu multimédia rapidement et facilement après le téléchargement.";
 "SHARE_MEDIA" = "Partager le média";
 
 "IMPORTANT_APP_INFO" = "Il s'agit des meilleures versions d'applications compatibles avec la version actuelle de DLEasy. Les versions antérieures et postérieures à ces versions peuvent également l'être, mais vous devez rester sur les versions répertoriées ci-dessus pour plus de sécurité. \n \n Conseil: Utiliser l'application Admin ou AppStore ++ pour rétrograder.";
