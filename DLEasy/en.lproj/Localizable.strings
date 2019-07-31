@@ -2,7 +2,7 @@
 
 /*## DLEASY SETTINGS ##*/
 
-"DIVERSE" = "Diverse";
+"DIVERSE_HEADER" = "Diverse";
 "GENERAL_SETTINGS_SECTION" = "General Settings";
 "COMPATIBLE_VERSIONS" = "Compatible Versions";
 "COMPATIBLE_APPS_VERSIONS" = "Compatible Apps Versions";
@@ -17,7 +17,7 @@
 "CUSTOM_ALBUM" = "Custom Album";
 "DLEASY_ALBUM" = "DLEasy Album";
 "DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
-"SHARE_MEDIA_HEADER" = "Enable this option to share media quickly and easily after downloading.";
+"SHARE_MEDIA_FOOTER" = "Enable this option to share media quickly and easily after downloading.";
 "SHARE_MEDIA" = "Share Media";
 
 "IMPORTANT_APP_INFO" = "These are the best versions of apps that are compatible with the current version of DLEasy, the versions that before and after these versions may also be compatible but you should be stay on the versions listed above to be safe.\n\nTip: Use App Admin or AppStore++ to downgrade.";
