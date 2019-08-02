@@ -2,6 +2,8 @@
 
 /*## DLEASY SETTINGS ##*/
 
+"IGNORE_GET_UPDATE" = "Ignorer obtenir / Mise â jour";
+"EXPLINE_IGNORE_OPTION" = "Activez cette option pour afficher les options que vous pouvez utiliser pour activer/désactiver les applications au lieu de «Obtenir/Mise a jour».\n\n «Obtenir» apparaît devant les applications qui ne sont pas installées sur votre appareil et «Mise a jour». apparaît devant les applications dotées d'une version récente compatible avec DLEasy.";
 "DIVERSE_HEADER" = "Divers";
 "GENERAL_SETTINGS_SECTION" = "Paramètres généraux";
 "COMPATIBLE_VERSIONS" = "Versions compatibles";
@@ -12,8 +14,6 @@
 "AHMEDBAFKIR" = "AhmedBafkir";
 "COPYRIGHT" = "© 2019 AhmedBafkir";
 
-"IGNORE_GET_UPDATE" = "Ignorer obtenir / Mise â jour";
-"EXPLINE_IGNORE_OPTION" = "Activez cette option pour afficher les options que vous pouvez utiliser pour activer/désactiver les applications au lieu de «Obtenir/Mise a jour».\n\n «Obtenir» apparaît devant les applications qui ne sont pas installées sur votre appareil et «Mise a jour». apparaît devant les applications dotées d'une version récente compatible avec DLEasy.";
 "CUSTOM_ALBUM" = "Album personnalisé";
 "DLEASY_ALBUM" = "Album DLEasy";
 "DLEASY_ALBUM_DESC" = "Si Activé, toutes les images et vidéos enregistrées par DLEasy seront enregistrées dans un album spécial de l’application Photo appelé DLEasy Album, afin de faciliter l’accès aux téléchargements.";
@@ -61,6 +61,7 @@
 "ALERT_QUALITY_SUPPORT" = "Cette qualité n'est pas prise en charge, sélectionnez une autre qualité.";
 
 /*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "Que veux-tu faire?";
 "ACTION_VIDEO_TITLE" = "Sélectionnez la qualité vidéo";
 "ACTION_IMAGE_TITLE" = "Sélectionnez la qualité de l'image";
 "ACTION_SAVE" = "sauvegarder";
@@ -72,6 +73,7 @@
 "ACTION_GIF" = "GIF";
 "ACTION_MORE" = "Plus";
 "ACTION_COPY_TEXT" = "Copier le texte";
+"ACTION_SHARE" = "Partager";
 "ACTION_CANCEL" = "Annuler";
 
 
