@@ -2,6 +2,8 @@
 
 /*## DLEASY SETTINGS ##*/
 
+"IGNORE_GET_UPDATE" = "Show Toggles";
+"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.";
 "DIVERSE_HEADER" = "Diverse";
 "GENERAL_SETTINGS_SECTION" = "General Settings";
 "COMPATIBLE_VERSIONS" = "Compatible Versions";
@@ -12,8 +14,6 @@
 "AHMEDBAFKIR" = "AhmedBafkir";
 "COPYRIGHT" = "© 2019 AhmedBafkir";
 
-"IGNORE_GET_UPDATE" = "Ignore GET/UPDATE";
-"EXPLINE_IGNORE_OPTION" = "Enable this option to show you the toggles that can be used to Enable/Disable apps instead of “GET/UPDATE”.";
 "CUSTOM_ALBUM" = "Custom Album";
 "DLEASY_ALBUM" = "DLEasy Album";
 "DLEASY_ALBUM_DESC" = "If Enabled, all images and videos saved by DLEasy will be saved in a special album in the Photo app called DLEasy Album, to facilitate access to the downloads.";
@@ -61,6 +61,7 @@
 "ALERT_QUALITY_SUPPORT" = "This quality is not supported, select another quality.";
 
 /*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "What you want to do?";
 "ACTION_VIDEO_TITLE" = "Select Video Quality";
 "ACTION_IMAGE_TITLE" = "Select Image Quality";
 "ACTION_SAVE" = "Save";
@@ -72,6 +73,7 @@
 "ACTION_GIF" = "GIF";
 "ACTION_MORE" = "More";
 "ACTION_COPY_TEXT" = "Copy Text";
+"ACTION_SHARE" = "Share";
 "ACTION_CANCEL" = "Cancel";
 
 
