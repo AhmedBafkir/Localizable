@@ -22,6 +22,9 @@
 
 "IMPORTANT_APP_INFO" = "These are the best versions of apps that are compatible with the current version of DLEasy, the versions that before and after these versions may also be compatible but you should be stay on the versions listed above to be safe.\n\nTip: Use App Admin or AppStore++ to downgrade.";
 
+"SUPPORT_LANGUAGES" = "Support Languages";
+"ICON_MAKER" = "Icon";
+
 "CONNECTION" = "Please make sure you are connected to the Internet to activate your purchase.";
 "SOMTHING_WRONG_IN_SERVER" = "Something in the request did not match up with what the server was expecting.";
 "PIRATED" = "You seem to be using an Unofficial (Pirated) version of DLEasy, please purchase the official version from Packix to get the full features of the tweak.";
