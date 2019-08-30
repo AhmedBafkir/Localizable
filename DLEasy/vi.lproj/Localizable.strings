@@ -1,0 +1,106 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "Bỏ qua cập nhật";
+"EXPLINE_IGNORE_OPTION" = "Bật tuỳ chọn hiển thị nút có thể sử dụng Kích hoạt/Vô hiệu ứng dụng của “Lấy ra/Cập nhật”.";
+"DIVERSE_HEADER" = "Khác";
+"GENERAL_SETTINGS_SECTION" = "Cài đặt chung";
+"COMPATIBLE_VERSIONS" = "Phiên bản tương thích";
+"COMPATIBLE_APPS_VERSIONS" = "Phiên bản ứng dụng tương thích";
+"CONTRIBUTE" = "Góp phần";
+"CREDITS" = "Tác giả";
+"DEVELOPER" = "Người phát triển";
+"AHMEDBAFKIR" = "AhmedBafkir";
+"COPYRIGHT" = "© 2019 AhmedBafkir";
+
+"CUSTOM_ALBUM" = "Thư mục tuỳ chọn";
+"DLEASY_ALBUM" = "Thư mục DLEasy";
+"DLEASY_ALBUM_DESC" = "Nếu kích hoạt, tất cả hình ảnh và video được tải xuống bởi DLEasy sẽ được lưu trữ vào thư mục DLEasy.";
+"SHARE_MEDIA_FOOTER" = "Kích hoạt tuỳ chọn chia sẻ truyền thông nhanh nhất và dễ dàng nhất sau khi tải.";
+"SHARE_MEDIA" = "Chia sẽ truyền thông";
+
+"IMPORTANT_APP_INFO" = "Đây là phiên bản ứng dụng tốt nhất tương thích với phiên bản DLEasy hiện tại, các phiên bản trước và sau các phiên bản này cũng có thể tương thích nhưng bạn nên giữ các phiên bản được liệt kê ở trên để an toàn.\n\nTip: Sử dụng AppAdmin hoặc AppStore ++ để hạ cấp.";
+
+"SUPPORT_LANGUAGES" = "Ngôn ngữ hỗ trợ";
+"ICON_MAKER" = "Biểu tượng";
+
+"CONNECTION" = "Vui lòng kiểm tra kết nối mạng để kích hoạt.";
+"SOMTHING_WRONG_IN_SERVER" = "Một yêu cầu gì đó không khớp với dữ liệu lưu trên máy chủ.";
+"PIRATED" = "Bạn đang sử dụng phiên bản không chính thức của DLEasy, vui lòng mua phiên bản chính thức từ Packix để sử dụng đầy đủ chức năng.";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Xong";
+"SCL_VIDEO" = "Bạn có thể tải bằng nhấn giữ trên video.";
+"SCL_STORY" = "Bạn có thể tải tiểu sử bằng nhấn giữ trên video/photo.";
+"SCL_INSTAGRAM" = "Bạn có thể tải bằng nhấn giữ trên hình ảnh hoặc video và nó sẽ áp dụng với tiểu sử và IGTV.";
+"SCL_TWITCH" = "Bạn chỉ có thể tải Clips bằng nhấn giữ trên Video";
+"SCL_TWITTER" = "Bạn chỉ có thể tải Clips bằng nhấn giữ trên Video hoặc Gifs trên toàn bộ màn hình và nó áp dụng cho tin trực tiếp.";
+"SCL_WHATSAPP" = "Để lưu trữ, ấn vào ba dấu phía trên góc phải.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Thành công";
+"HUD_IMPORT" = "Nhập vào";
+"HUD_COPIED" = "Sao chép";
+"HUD_WAITING" = "Vui lòng chờ...";
+"HUD_ERROR" = "Lỗi!";
+"HUD_CONNECTION" = "Không có kết nối mạng!";
+"HUD_DOWNLOADING" = "Đang tải..";
+"HUD_DOWNLOADING_ALL" = "Đang tải\ntất cả..";
+"HUD_FETCHING_LINKS" = "Lấy\nđường dẫn..";
+"HUD_CANCEL" = "Huỷ bỏ";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "Đồng ý";
+"ALERT_IMPORT_BUTTON" = "Nhập";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Không thể tải video/audio khác tại thời điểm này, vui lòng chờ tải xuống xong.";
+"ALERT_IMPORT_VIDEO" = "Bạn có muốn chuyển video vào ứng dụng Music?";
+"ALERT_QUALITY_SUPPORT" = "Chất lượng này không được hỗ trợ, hãy chọn chất lượng khác.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "?";
+"ACTION_VIDEO_TITLE" = "Chọn chất lượng Video";
+"ACTION_IMAGE_TITLE" = "Chọn chất lượng hình ảnh";
+"ACTION_SAVE" = "Lưu";
+"ACTION_VIDEO" = "Video";
+"ACTION_AUDIO" = "Audio";
+"ACTION_DEFAULT_OPTIONS" = "Tuỳ chọn mặc định";
+"ACTION_ITEM" = "Tải mục";
+"ACTION_ALL_ITEMS" = "Tải tất cả các mục";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "Nhiều hơn";
+"ACTION_COPY_TEXT" = "Sao chép văn bản";
+"ACTION_SHARE" = "Chia sẻ";
+"ACTION_CANCEL" = "Huỷ";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Nhập";
+"CANCEL_BUTTON" = "Huỷ";
+"ARTWORK_IMAGE_LABEL" = "Nhấn để thêm ảnh minh hoạ";
+"SONG_LABEL" = "Bài hát";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Track";
+"ARTIST_LABEL" = "Nhạc sĩ";
+"YEAR_LABEL" = "Năm";
+"GENRE_LABEL" = "Thể loại";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Cảm ơn đã cài đặt và sử dụng DLEasy!\nVui lòng vào quản lý cài đặt để kích hoạt nó.";
+"ALERT_MESSAGE_PIRATED" = "Bạn đang sử dụng phiên bản không chính thức của DLEasy, vui lòng mua phiên bản chính thức từ Packix để sử dụng đầy đủ chức năng.";
+
+/* ---------------------------------- */
+
+/* ################################## */

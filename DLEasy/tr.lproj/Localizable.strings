@@ -1,0 +1,106 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "Geçişleri Göster";
+"EXPLINE_IGNORE_OPTION" = "'GET/UPDATE' yerine uygulamaları Aktif/Kapalı yapmada kullanılabilecek geçişleri göstermek için bu seçeneği etkinleştirin.";
+"DIVERSE_HEADER" = "Ayarlar";
+"GENERAL_SETTINGS_SECTION" = "Genel Ayarlar";
+"COMPATIBLE_VERSIONS" = "Uyumlu Sürümler";
+"COMPATIBLE_APPS_VERSIONS" = "Uyumlu Uygulama Sürümleri";
+"CONTRIBUTE" = "Katkıda Bulunanlar";
+"CREDITS" = "Özel Teşekkürler";
+"DEVELOPER" = "Geliştirici";
+"AHMEDBAFKIR" = "AhmedBafkir";
+"COPYRIGHT" = "© 2019 AhmedBafkir";
+
+"CUSTOM_ALBUM" = "Özel Albüm";
+"DLEASY_ALBUM" = "DLEasy Albümü";
+"DLEASY_ALBUM_DESC" = "Etkinse, DLEasy tarafından kaydedilen tüm resimler ve videolar, indirmelere erişimi kolaylaştırmak için DLEasy Albümü adlı Fotoğraflar uygulamasında özel bir albüme kaydedilir.";
+"SHARE_MEDIA_FOOTER" = "Medyayı indirdikten sonra hızlı ve kolay bir şekilde paylaşmak için bu seçeneği etkinleştirin.";
+"SHARE_MEDIA" = "Medya Paylaş";
+
+"IMPORTANT_APP_INFO" = "Bunlar, mevcut DLEasy sürümüyle uyumlu uygulama sürümleridir, Tweak'ten en iyi şekilde yararlanmak için yukarıda listelenen veya Alt  Sürümlerinde kalmalısınız.\n\nİpucu: Eski sürüm uygulamaları yüklemek için 'AppAdmin' veya 'AppStore++' kullanın.";
+
+"SUPPORT_LANGUAGES" = "Destek Dilleri";
+"ICON_MAKER" = "ikon";
+
+"CONNECTION" = "Satın alma işleminizi etkinleştirmek için lütfen İnternet’e bağlı olduğunuzdan emin olun.";
+"SOMTHING_WRONG_IN_SERVER" = "İstediğin bir şey, sunucunun beklediği şey ile eşleşmedi.";
+"PIRATED" = "DLEasy'nin resmi olmayan bir (Korsan) sürümünü kullanıyor görünüyorsunuz, Tweak'in özelliklerini görmek için lütfen Packix'ten resmi sürümünü satın alın.";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Bitti";
+"SCL_VIDEO" = "Artık videoya uzun basarak indirebilirsiniz.";
+"SCL_STORY" = "Artık video/fotoğrafa uzun basarak hikayeyi indirebilirsiniz.";
+"SCL_INSTAGRAM" = "Artık görüntü veya videoya uzun basarak indirebilirsiniz. Hikaye ile IGTV için de geçerlidir.";
+"SCL_TWITCH" = "Artık Videoları sadece uzun basarak indirebilirsiniz.";
+"SCL_TWITTER" = "Artık video yada tam ekran Gif'leri uzun basarak indirebilirsiniz. Mesajlar için de geçerlidir.";
+"SCL_WHATSAPP" = "Durumu kaydetmek için sağ üstteki üç nokta düğmesine basın.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Tamamlandı";
+"HUD_IMPORT" = "İndirildi";
+"HUD_COPIED" = "Kopyalandı";
+"HUD_WAITING" = "Lütfen bekleyin..";
+"HUD_ERROR" = "Hata!";
+"HUD_CONNECTION" = "İnternet yok!";
+"HUD_DOWNLOADING" = "İndiriliyor..";
+"HUD_DOWNLOADING_ALL" = "İndiriliyor\nTümü..";
+"HUD_FETCHING_LINKS" = "Bağlantılar\nalınıyor..";
+"HUD_CANCEL" = "İptal";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "Tamam";
+"ALERT_IMPORT_BUTTON" = "Şimdi Ekle";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Aynı anda birden fazla video/ses indirilemiyor, İndirme işleminin bitmesini bekleyin.";
+"ALERT_IMPORT_VIDEO" = "Videoyu müzik uygulamasına aktarmak ister misiniz?";
+"ALERT_QUALITY_SUPPORT" = "Bu kalite desteklenmiyor, başka bir kalite seçin.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "Ne yapmak istersin?";
+"ACTION_VIDEO_TITLE" = "Video Kalitesini Seçin";
+"ACTION_IMAGE_TITLE" = "Görüntü Kalitesini Seçin";
+"ACTION_SAVE" = "Kaydet";
+"ACTION_VIDEO" = "Video";
+"ACTION_AUDIO" = "Ses";
+"ACTION_DEFAULT_OPTIONS" = "Varsayılan Seçenekler";
+"ACTION_ITEM" = "Bu Öğeyi İndir";
+"ACTION_ALL_ITEMS" = "Tüm Öğeleri İndir";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "Daha";
+"ACTION_COPY_TEXT" = "Metni Kopyala";
+"ACTION_SHARE" = "Paylaş";
+"ACTION_CANCEL" = "İptal";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Şimdi Ekle";
+"CANCEL_BUTTON" = "İptal";
+"ARTWORK_IMAGE_LABEL" = "Resim Eklemek İçin Tıklayın";
+"SONG_LABEL" = "Şarkı";
+"ALBUM_LABEL" = "Albüm";
+"TRACK_LABEL" = "Parça";
+"ARTIST_LABEL" = "Şarkıcı";
+"YEAR_LABEL" = "Yıl";
+"GENRE_LABEL" = "Tür";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "DLEasy'yi yüklediğiniz için teşekkür ederiz!\nEtkinleştirmek için lütfen Tweak ayarlarına gidin.";
+"ALERT_MESSAGE_PIRATED" = "DLEasy'nin resmi olmayan bir (Korsan) sürümünü kullanıyor görünüyorsunuz, Tweak'in özelliklerini görmek için lütfen Packix'ten resmi sürümünü satın alın.";
+
+/* ---------------------------------- */
+
+/* ################################## */
