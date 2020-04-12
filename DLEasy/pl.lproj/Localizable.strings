@@ -1,0 +1,106 @@
+/* ################################## */
+
+/*## DLEASY SETTINGS ##*/
+
+"IGNORE_GET_UPDATE" = "Pokaż przełączniki;
+"EXPLINE_IGNORE_OPTION" = "Włącz tę opcję aby pokazać przełączniki które mogą być użyte do włączenia/wyłączenia aplikacji zamiast 'Pobierz/Zaktualizuj'";
+"DIVERSE_HEADER" = "Różnorodne";
+"GENERAL_SETTINGS_SECTION" = "Ustawienia ogólne";
+"COMPATIBLE_VERSIONS" = "Kompatybilne wersje";
+"COMPATIBLE_APPS_VERSIONS" = "Kompatybilne wersje aplikacji";
+"CONTRIBUTE" = "Przyłóż się";
+"CREDITS" = "Autorzy";
+"DEVELOPER" = "Programista";
+"AHMEDBAFKIR" = "AhmedBafkir";
+"COPYRIGHT" = "© 2019 AhmedBafkir";
+
+"CUSTOM_ALBUM" = "Własny album";
+"DLEASY_ALBUM" = "Album DLEasy";
+"DLEASY_ALBUM_DESC" = "Jeśli włączone, wszystkie obrazy i filmy zapisane przez DLEasy będą zapisane w specjalnym albumie w aplikacji Zdjęcia nazwanym Album DLEasy, aby ułatwić dostęp do pobranych";
+"SHARE_MEDIA_FOOTER" = "Włącz tę opcję, aby szybko udostępnić pobrane pliki";
+"SHARE_MEDIA" = "Udostępnij pliki";
+
+"IMPORTANT_APP_INFO" = "Te wersje aplikacji są najlepiej kompatybilne z obecną wersją DLEasy, wersje starsze lub nowsze mogą również być kompatybilne, ale lepiej pozostać na wersji wypisanej wyżej.\n\nWskazówka: Użyj App Admin lub AppStore++ aby obniżyć wersję";
+
+"SUPPORT_LANGUAGES" = "Wesprzyj języki";
+"ICON_MAKER" = "Ikona";
+
+"CONNECTION" = "Upewnij się, że jesteś podłączony do Internetu, aby aktywować swój zakup";
+"SOMTHING_WRONG_IN_SERVER" = "Coś w żądaniu nie zgadzało się z tym, czego spodziewał się serwer";
+"PIRATED" = "Chyba używasz nieoficjalnej (pirackiej) wersji DLEasy, proszę zakup oficjalną wersję z repozytorium Packix, aby cieszyć się wszystkimi funkcjami tweaku.";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## IN APPS ##*/
+
+/*@ SCLAlertView @*/
+"SCL_DONE" = "Ukończono";
+"SCL_VIDEO" = "Teraz możesz pobierać poprzez przytrzymanie na filmiku.";
+"SCL_STORY" = "Teraz możesz pobierać Stories poprzez przytrzymanie na zdjęciu/filmiku.";
+"SCL_INSTAGRAM" = "Teraz możesz pobierać poprzez przytrzymanie na zdjęciach lub filmach, również na Story i IGTV.";
+"SCL_TWITCH" = "Możesz pobierać tylko Klipy poprzez przytrzymanie na filmiku.";
+"SCL_TWITTER" = "Teraz możesz pobierać poprzez przyrzymanie na filmiku lub GIFie w pełnym ekranie, również w DM.";
+"SCL_WHATSAPP" = "Aby zapisać status, dotknij trzech kropek w prawym górnym rogu.";
+
+/*@ HUD @*/
+"HUD_SUCCESS" = "Suckes";
+"HUD_IMPORT" = "Zaimportowano";
+"HUD_COPIED" = "Skopiowano";
+"HUD_WAITING" = "Proszę czekać...";
+"HUD_ERROR" = "Błąd!";
+"HUD_CONNECTION" = "Nie ma Internetu!";
+"HUD_DOWNLOADING" = "Pobieranie...";
+"HUD_DOWNLOADING_ALL" = "Pobieranie\nwszystkich...";
+"HUD_FETCHING_LINKS" = "Uzyskiwanie\nlinków";
+"HUD_CANCEL" = "Anuluj";
+
+/*@ ALERT MESSAGE @*/
+"ALERT_OK_BUTTON" = "OK";
+"ALERT_IMPORT_BUTTON" = "Importuj";
+"ALERT_FORCE_DOWNLOAD_ONE_VIDEO" = "Nie możesz pobierać więcej niż jednego filmu/utworu w tym samym czasie. Poczekaj aż pobieranie zakończy się.";
+"ALERT_IMPORT_VIDEO" = "Czy chcesz zaimportować film do aplikacji Muzyka?";
+"ALERT_QUALITY_SUPPORT" = "Ta jakość nie jest wspierana, wybierz inną.";
+
+/*@ ACTIONSHEET @*/
+"ACTION_MESSAGE_SAVE_SHARE" = "Co chcesz zrobić?";
+"ACTION_VIDEO_TITLE" = "Wybierz jakość wideo";
+"ACTION_IMAGE_TITLE" = "Wybierz jakość obrazu";
+"ACTION_SAVE" = "Zapisz";
+"ACTION_VIDEO" = "Wideo";
+"ACTION_AUDIO" = "Dźwięk";
+"ACTION_DEFAULT_OPTIONS" = "Opcje domyślne";
+"ACTION_ITEM" = "Pobierz to";
+"ACTION_ALL_ITEMS" = "Pobierz wszystko";
+"ACTION_GIF" = "GIF";
+"ACTION_MORE" = "Więcej";
+"ACTION_COPY_TEXT" = "Skopiuj tekst";
+"ACTION_SHARE" = "Udostępnij";
+"ACTION_CANCEL" = "Anuluj";
+
+
+/*@ IMPORT PAGE @*/
+"IMPORT_BUTTON" = "Importuj";
+"CANCEL_BUTTON" = "Anuluj";
+"ARTWORK_IMAGE_LABEL" = "Kliknij, aby dodać okładkę";
+"SONG_LABEL" = "Utwór";
+"ALBUM_LABEL" = "Album";
+"TRACK_LABEL" = "Ścieżka";
+"ARTIST_LABEL" = "Artysta";
+"YEAR_LABEL" = "Rok";
+"GENRE_LABEL" = "Gatunek";
+
+/* ---------------------------------- */
+
+/* ################################## */
+
+/*## SPRINGBOARD ##*/
+
+/*@ ALERT MESSAGE @*/
+"ALERT_MESSAGE_FIRST_INASTALL" = "Dziękujemy za instalację DLEasy!\nPrzejdź do ustawień tweaku, aby go aktywować.";
+"ALERT_MESSAGE_PIRATED" = "Chyba używasz nieoficjalnej (pirackiej) wersji DLEasy, proszę zakup oficjalną wersję z repozytorium Packix, aby cieszyć się wszystkimi funkcjami tweaku.";
+
+/* ---------------------------------- */
+
+/* ################################## */
